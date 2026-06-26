@@ -334,10 +334,9 @@ Spigot compatibility may depend on enabled features and server environment.
 
 ## 📥 Download
 
-Trustify is distributed through Modrinth.
+Trustify is available on Modrinth.
 
-> This repository is used for plugin information, documentation, updates, and issue tracking.  
-> The source code is not publicly available.
+https://modrinth.com/plugin/trustify
 
 ---
 
