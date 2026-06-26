@@ -340,6 +340,21 @@ https://modrinth.com/plugin/trustify
 
 ---
 
+## Support & Feedback
+
+Found a bug or have an idea for Trustify?
+
+You can use GitHub Issues to send bug reports, questions, and feature suggestions. Please include your plugin version, server version, Java version, and logs when reporting a problem.
+
+---
+
+## Source Code
+
+Trustify is a closed-source plugin.  
+This repository is used for plugin information, documentation, feedback, and support only.
+
+Please download the official plugin only from trusted sources.
+
 <div align="center">
 
 **Trustify**  
