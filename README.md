@@ -2,7 +2,7 @@
 
 ![Trustify Banner](https://cdn.modrinth.com/data/cached_images/a169470db4bf2398aeb7451006493786b06d1155_0.webp)
 
-# Trustify
+# Trustify Version 1.0
 
 ### Smart Reputation, Trust & Karma System for Minecraft Servers
 
