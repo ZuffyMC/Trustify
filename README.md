@@ -354,10 +354,3 @@ Trustify is a closed-source plugin.
 This repository is used for plugin information, documentation, feedback, and support only.
 
 Please download the official plugin only from trusted sources.
-
-<div align="center">
-
-**Trustify**  
-Build a safer and more trusted Minecraft community.
-
-</div>
